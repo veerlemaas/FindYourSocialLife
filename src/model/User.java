@@ -34,5 +34,6 @@ public class User {
 	public void editSocialActivity
 	
 	// TEST VOOR GITHUB
+	// TEST VOOR GITHUB 2
 
 }
