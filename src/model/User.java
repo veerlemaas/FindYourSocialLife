@@ -33,6 +33,6 @@ public class User {
 	// method for editing social activity
 	public void editSocialActivity
 	
-	
+	// TEST VOOR GITHUB
 
 }
